@@ -2,7 +2,7 @@
 
 ### Atualmente estou cursando Engenharia de Controle e Automação, uma mistura de áreas que vem da mecânica 🦾👨‍🔧, eletrônica 🔌🔋 e a que eu mais amo: a tecnologia 🖥️.
 
-### Aqui estão alguns dos meus projetos:
--[] Robo Balão
--[] Sensores de Velocidade Linear
--[] Maquina de Sabão
+##### Aqui estão alguns dos meus projetos:
+-[X] Robo Balão
+-[X] Sensores de Velocidade Linear
+-[X] Maquina de Sabão
